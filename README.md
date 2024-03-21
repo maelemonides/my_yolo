@@ -42,8 +42,6 @@ The dataset used for training and testing the YOLOv8 model consists of images co
 
 ## Architecture:
 
-![Project Architecture](architecture_diagram.png)
-
 - **Components/Services:** 
   - YOLOv8 Model (Fine-tuned)
   - Streamlit Web Application
@@ -62,4 +60,3 @@ The dataset used for training and testing the YOLOv8 model consists of images co
 ## Conclusion:
 Despite challenges related to model size and compatibility, this project successfully deploys a YOLOv8-based object detection system using Streamlit. By leveraging cloud-based solutions and containerization, the application achieves scalability and ease of deployment. Future improvements may include exploring alternative deployment platforms and addressing model size constraints for enhanced flexibility.
 
----
